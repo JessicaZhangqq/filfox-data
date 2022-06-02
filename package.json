@@ -1,0 +1,18 @@
+{
+  "name": "filfox_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node data.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-retry": "^3.2.5",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.3"
+  }
+}
