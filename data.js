@@ -623,7 +623,7 @@ var oneFinished=true
   }
   //test
 //读取worker controller余额 ，执行时间每月最后一天utc 24点
-  // getBalanceWC(0,getBalanceWC)
+  getBalanceWC(0,getBalanceWC)
 // timestampModule.getMaxMinAll()
 getTransactions(20,getTransactions)
 // getTransactionController(18)
