@@ -3,3 +3,5 @@
 ## used to read data from filfox api into mongodb, month-end ,reald balance of all workers and controllers,
 ##test for learning git
 ## weekly read miners all transactions into database.
+
+1. open index.html in your branch
